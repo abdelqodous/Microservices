@@ -7,4 +7,4 @@ my.list.values: Male, Female, Non
 db:
    connection: connection string from sonfig server
    host: 129.0.0.1
-   port: 1571
+   port: 1501
